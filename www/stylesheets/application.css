@@ -10,3 +10,11 @@ input, textarea, [contenteditable] * {
 .content-padded {
   padding: 10px;
 }
+
+#myImage {
+    width: 300px;
+    background: red;
+    min-height: 200px;
+    margin: auto;
+    display: block;
+}
